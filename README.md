@@ -9,7 +9,6 @@ The dataset used for training and testing the K-means clustering algorithm is so
 
 **Kaggle Dataset Link:** https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-Please download the dataset and place it in the `data/` directory before running the code.
 
 ## Model Used
 We have implemented the K-means clustering algorithm for customer segmentation. K-means is a popular unsupervised learning algorithm that partitions data points into k clusters based on their features. In this context, it helps identify different customer segments with similar purchasing patterns.
